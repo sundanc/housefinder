@@ -24,9 +24,11 @@ pip install pandas numpy streamlit
 
 ## How to Use
 
-1. Clone this repository or download the files.
-4. The web interface will prompt you to input your house preferences (e.g., minimum living area, number of bedrooms, etc.).
-5. The application will filter the data and display the best matching house based on your criteria.
+ Clone this repository or download the files.
+ The web interface will prompt you to input your house preferences (e.g., minimum living area, number of bedrooms, etc.).
+![image](https://github.com/user-attachments/assets/b64f2a26-6eaf-4aaa-83a8-75e784b663ae)
+The application will filter the data and display the best matching house based on your criteria.
+![image](https://github.com/user-attachments/assets/e638e6c0-3574-4638-8f41-8427b5c6227d)
 
 ## License
 
